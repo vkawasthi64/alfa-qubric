@@ -1,2 +1,2 @@
 # alfa-qubric
-Updated quric1 
+Updated quric2
