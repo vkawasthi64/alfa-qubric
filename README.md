@@ -1,2 +1,2 @@
-# alfa-qubric
+                                        # alfa-qubric       
 Updated quric34
